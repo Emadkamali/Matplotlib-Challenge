@@ -1,4 +1,4 @@
-# Matplotlib-Challenge
+# Pymaceuticals-Project
 
 This repository encompasses a Python script designed for the thorough analysis of data from Pymaceuticals Inc., a pharmaceutical company specializing in anti-cancer medications, particularly for treating squamous cell carcinoma (SCC), a type of skin cancer, through an animal study. The script efficiently handles data preparation tasks by merging information from mouse metadata and study results CSV files into a consolidated DataFrame, subsequently eliminating duplicate entries.
 

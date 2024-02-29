@@ -2,7 +2,7 @@
 
 This repository encompasses a Python script designed for the thorough analysis of data from Pymaceuticals Inc., a pharmaceutical company specializing in anti-cancer medications, particularly for treating squamous cell carcinoma (SCC), a type of skin cancer, through an animal study. The script efficiently handles data preparation tasks by merging information from mouse metadata and study results in CSV files into a consolidated DataFrame, subsequently eliminating duplicate entries.
 
-# Analysis:
+# Analysis
 
 - Identification of Outliers: The outlined circles effectively highlight extreme data points, facilitating the identification of outliers within the dataset.
 
